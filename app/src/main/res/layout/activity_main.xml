@@ -34,7 +34,7 @@
         android:layout_marginBottom="444dp"
         android:gravity="center"
         android:text="Slider Demo"
-        android:textColor="@color/red"
+        android:textColor="@color/maroon"
         android:textSize="30sp"
         android:textStyle="bold" />
 
